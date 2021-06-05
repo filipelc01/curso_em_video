@@ -1,0 +1,7 @@
+nome = input('Digite seu nome:')
+print(nome.isalnum())
+print(nome.isalpha())
+print(nome.isascii())
+print(nome.islower())
+print(nome.isupper())
+print(nome.isspace())
