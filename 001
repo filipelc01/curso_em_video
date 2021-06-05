@@ -1,0 +1,6 @@
+# Pode ser usado aspas duplas ou simples, importante colocar uma linha em branco no final do programa para identificar que o programa chegou ao fim.
+print("Olá, Mundo! aspas duplas")
+print('Olá, Mundo! aspas simples') #opte por usar aspas simples, por padronização.
+
+msg='Olá, Mundo! usando variável'
+print(msg)
